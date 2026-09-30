@@ -1,0 +1,12 @@
+{
+  "name": "word-hunt-daily",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "generate": "node scripts/generate-daily-puzzle.js"
+  },
+  "devDependencies": {
+    "jest": "30.5.2"
+  }
+}
