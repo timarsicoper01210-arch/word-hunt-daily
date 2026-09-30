@@ -38,7 +38,7 @@
 **Interfaces:**
 - Produces: `generateGrid({ words, size, seed, directions }) -> { grid, placements }`, `checkSelection(placements, selectionPath) -> string | null`, `isComplete(foundWords, placements) -> boolean`, `mulberry32(seedInt) -> () => number`, `hashSeed(str) -> int` — consumed by Task 2 and Task 3.
 
-- [ ] **Step 1: Write `package.json`**
+- [x] **Step 1: Write `package.json`**
 
 ```json
 {
@@ -55,18 +55,18 @@
 }
 ```
 
-- [ ] **Step 2: Write `.gitignore`**
+- [x] **Step 2: Write `.gitignore`**
 
 ```
 node_modules/
 ```
 
-- [ ] **Step 3: Install dependencies**
+- [x] **Step 3: Install dependencies**
 
 Run: `npm install`
 Expected: `node_modules/` created, `package-lock.json` written, no errors.
 
-- [ ] **Step 4: Write `lib/wordsearch.js`** (ported verbatim from `~/Projects/game-factory/templates/word-search/lib/wordsearch.js`)
+- [x] **Step 4: Write `lib/wordsearch.js`** (ported verbatim from `~/Projects/game-factory/templates/word-search/lib/wordsearch.js`)
 
 ```javascript
 const DIRECTION_VECTORS = {
@@ -198,7 +198,7 @@ Note: `pathsEqual` is kept even though `checkSelection` now uses endpoint matchi
 (`cellsEqual`) rather than full-path matching — it's unused dead weight from the
 original file. Delete it; it was never exported and nothing in this port calls it.
 
-- [ ] **Step 5: Write `lib/wordsearch.test.js`** (ported verbatim from `~/Projects/game-factory/templates/word-search/lib/wordsearch.test.js`)
+- [x] **Step 5: Write `lib/wordsearch.test.js`** (ported verbatim from `~/Projects/game-factory/templates/word-search/lib/wordsearch.test.js`)
 
 ```javascript
 const { generateGrid, mulberry32, hashSeed, checkSelection, isComplete } = require('./wordsearch');
@@ -303,12 +303,12 @@ test('isComplete is true once every placement is found, in any order', () => {
 });
 ```
 
-- [ ] **Step 6: Run tests to verify they pass**
+- [x] **Step 6: Run tests to verify they pass**
 
 Run: `npx jest`
 Expected: PASS (16 tests)
 
-- [ ] **Step 7: Commit**
+- [x] **Step 7: Commit**
 
 ```bash
 git add package.json package-lock.json .gitignore lib/wordsearch.js lib/wordsearch.test.js
@@ -328,7 +328,7 @@ git commit -m "feat: port word-search generator and tests from game-factory"
 - Consumes: `generateGrid`, `mulberry32`, `hashSeed` from `../lib/wordsearch` (Task 1)
 - Produces: `generateDailyPuzzle({ date, wordBank?, outputPath? }) -> { date, dir: outputPath, wordCount }`, writes a `puzzle.json` with shape `{ date, grid, solutionPlacements, words }` — consumed by Task 3 (the page reads this exact shape) and Task 4 (the workflow calls this script's CLI entrypoint).
 
-- [ ] **Step 1: Write `data/word-bank.json`**
+- [x] **Step 1: Write `data/word-bank.json`**
 
 ```json
 [
@@ -342,7 +342,7 @@ git commit -m "feat: port word-search generator and tests from game-factory"
 ]
 ```
 
-- [ ] **Step 2: Write the failing tests**
+- [x] **Step 2: Write the failing tests**
 
 ```javascript
 // scripts/generate-daily-puzzle.test.js
@@ -408,12 +408,12 @@ test('generateDailyPuzzle throws when fewer than half the requested words could 
 });
 ```
 
-- [ ] **Step 3: Run tests to verify they fail**
+- [x] **Step 3: Run tests to verify they fail**
 
 Run: `npx jest scripts/generate-daily-puzzle.test.js`
 Expected: FAIL with "Cannot find module './generate-daily-puzzle'"
 
-- [ ] **Step 4: Write the implementation**
+- [x] **Step 4: Write the implementation**
 
 ```javascript
 // scripts/generate-daily-puzzle.js
@@ -479,12 +479,12 @@ if (require.main === module) {
 module.exports = { generateDailyPuzzle };
 ```
 
-- [ ] **Step 5: Run tests to verify they pass**
+- [x] **Step 5: Run tests to verify they pass**
 
 Run: `npx jest scripts/generate-daily-puzzle.test.js`
 Expected: PASS (4 tests)
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add data/word-bank.json scripts/generate-daily-puzzle.js scripts/generate-daily-puzzle.test.js
@@ -508,7 +508,7 @@ git commit -m "feat: add daily puzzle generator script"
 
 No automated test for this task — DOM rendering and touch/mouse interaction require a real browser, same as the camera/GPS parts of `access-guide-app`. Verified manually (Step 6) before committing.
 
-- [ ] **Step 1: Write the fixture `docs/data/puzzle.json`**
+- [x] **Step 1: Write the fixture `docs/data/puzzle.json`**
 
 ```json
 {
@@ -528,7 +528,7 @@ No automated test for this task — DOM rendering and touch/mouse interaction re
 }
 ```
 
-- [ ] **Step 2: Write `docs/index.html`**
+- [x] **Step 2: Write `docs/index.html`**
 
 ```html
 <!DOCTYPE html>
@@ -564,7 +564,7 @@ No automated test for this task — DOM rendering and touch/mouse interaction re
 </html>
 ```
 
-- [ ] **Step 3: Write `docs/app.js`**
+- [x] **Step 3: Write `docs/app.js`**
 
 ```javascript
 const CELL_SIZE = 32;
@@ -709,7 +709,7 @@ if ('serviceWorker' in navigator) {
 }
 ```
 
-- [ ] **Step 4: Write `docs/manifest.webmanifest`**
+- [x] **Step 4: Write `docs/manifest.webmanifest`**
 
 ```json
 {
@@ -727,7 +727,7 @@ if ('serviceWorker' in navigator) {
 }
 ```
 
-- [ ] **Step 5: Write `docs/icon.svg`**
+- [x] **Step 5: Write `docs/icon.svg`**
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -736,7 +736,7 @@ if ('serviceWorker' in navigator) {
 </svg>
 ```
 
-- [ ] **Step 6: Write `docs/sw.js`**
+- [x] **Step 6: Write `docs/sw.js`**
 
 ```javascript
 const CACHE_NAME = 'word-hunt-daily-v1';
@@ -762,12 +762,12 @@ self.addEventListener('fetch', (event) => {
 });
 ```
 
-- [ ] **Step 7: Verify manually in a browser**
+- [x] **Step 7: Verify manually in a browser**
 
 Run: `cd docs && python3 -m http.server 8123`, then open `http://localhost:8123/` in a browser.
 Expected: the grid renders with the fixture puzzle (CAT/DOG), dragging from C to T (row 0, cols 0-2) marks CAT as found, dragging from D to G (col 4, rows 0-2) marks DOG as found, status shows "Résolu !" once both are found. Stop the server after verifying (`Ctrl+C`).
 
-- [ ] **Step 8: Commit**
+- [x] **Step 8: Commit**
 
 ```bash
 git add docs/index.html docs/app.js docs/manifest.webmanifest docs/icon.svg docs/sw.js docs/data/puzzle.json
@@ -786,7 +786,7 @@ git commit -m "feat: add playable static PWA page"
 
 No automated test — this is CI configuration, verified by actually running it (Step 4).
 
-- [ ] **Step 1: Write `.github/workflows/daily-puzzle.yml`**
+- [x] **Step 1: Write `.github/workflows/daily-puzzle.yml`**
 
 ```yaml
 name: Daily puzzle
@@ -818,7 +818,7 @@ jobs:
           git push
 ```
 
-- [ ] **Step 2: Create the GitHub repository and push**
+- [x] **Step 2: Create the GitHub repository and push**
 
 Run:
 ```bash
@@ -827,7 +827,7 @@ gh repo create word-hunt-daily --public --source=. --remote=origin --push
 ```
 Expected: repository created at `https://github.com/timarsicoper01210-arch/word-hunt-daily`, `main` pushed, `origin` remote set.
 
-- [ ] **Step 3: Enable GitHub Pages to serve from `/docs` on `main`**
+- [x] **Step 3: Enable GitHub Pages to serve from `/docs` on `main`**
 
 Run:
 ```bash
@@ -836,18 +836,18 @@ gh api -X POST repos/timarsicoper01210-arch/word-hunt-daily/pages \
 ```
 Expected: JSON response describing the new Pages site, with a `"status"` field (typically `null` or `"building"` right after creation — GitHub takes a minute or two to actually build and serve it).
 
-- [ ] **Step 4: Trigger the workflow manually and verify it runs end to end**
+- [x] **Step 4: Trigger the workflow manually and verify it runs end to end**
 
 Run: `gh workflow run daily-puzzle.yml`
 Wait ~30s, then: `gh run list --workflow=daily-puzzle.yml --limit 1`
 Expected: the run shows `completed` / `success`. If it fails, run `gh run view --log` on that run's id and fix before relying on the schedule.
 
-- [ ] **Step 5: Verify the live site**
+- [x] **Step 5: Verify the live site**
 
 Run: `curl -s -o /dev/null -w "%{http_code}\n" https://timarsicoper01210-arch.github.io/word-hunt-daily/`
 Expected: `200` (may take a few minutes after Step 3 for Pages to finish its first build — retry if it's still `404`).
 
-- [ ] **Step 6: Commit the workflow file**
+- [x] **Step 6: Commit the workflow file**
 
 ```bash
 git add .github/workflows/daily-puzzle.yml
