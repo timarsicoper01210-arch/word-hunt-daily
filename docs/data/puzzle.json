@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-30",
+  "grid": [
+    ["C", "A", "T", "Q", "D"],
+    ["Q", "Q", "Q", "Q", "O"],
+    ["Q", "Q", "Q", "Q", "G"],
+    ["Q", "Q", "Q", "Q", "Q"],
+    ["Q", "Q", "Q", "Q", "Q"]
+  ],
+  "solutionPlacements": [
+    { "word": "CAT", "path": [{ "row": 0, "col": 0 }, { "row": 0, "col": 1 }, { "row": 0, "col": 2 }] },
+    { "word": "DOG", "path": [{ "row": 0, "col": 4 }, { "row": 1, "col": 4 }, { "row": 2, "col": 4 }] }
+  ],
+  "words": ["CAT", "DOG"]
+}

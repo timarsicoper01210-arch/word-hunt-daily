@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Word Hunt Daily</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <style>
+    body { font-family: system-ui, sans-serif; display: flex; flex-direction: column; align-items: center; padding-top: 32px; background: #f7f8fb; margin: 0; }
+    h1 { font-size: 24px; margin-bottom: 4px; }
+    #status { margin: 16px 0; font-size: 16px; }
+    #grid { display: inline-block; border: 1px solid #ccc; user-select: none; touch-action: none; }
+    .row { display: flex; }
+    .cell { width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; border: 0.5px solid #ddd; font-weight: 600; cursor: pointer; }
+    .cell.selected { background: #bfdbfe; }
+    #words { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; max-width: 320px; justify-content: center; }
+    .word { font-weight: 600; }
+    .word.found { color: #999; text-decoration: line-through; }
+    noscript { margin-top: 32px; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Word Hunt Daily</h1>
+  <div id="status">Chargement du puzzle du jour...</div>
+  <div id="grid"></div>
+  <div id="words"></div>
+  <noscript>Active JavaScript pour jouer.</noscript>
+  <script src="app.js"></script>
+</body>
+</html>
