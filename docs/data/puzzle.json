@@ -1,174 +1,141 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "grid": [
     [
+      "B",
+      "Y",
       "G",
+      "Z",
+      "J",
+      "Z",
       "M",
-      "R",
-      "U",
+      "I",
       "M",
-      "R",
-      "G",
-      "G",
+      "S"
+    ],
+    [
+      "E",
+      "V",
       "Q",
+      "L",
+      "Q",
+      "S",
+      "U",
+      "G",
+      "B",
+      "P"
+    ],
+    [
+      "E",
+      "E",
+      "V",
+      "E",
+      "D",
+      "U",
+      "U",
+      "L",
+      "N",
       "A"
     ],
     [
-      "B",
-      "C",
-      "K",
-      "R",
-      "U",
-      "C",
-      "X",
+      "F",
       "L",
-      "E",
-      "B"
-    ],
-    [
-      "H",
-      "A",
+      "V",
       "Q",
-      "D",
-      "B",
       "R",
-      "I",
       "D",
-      "G",
-      "E"
+      "M",
+      "O",
+      "E",
+      "R"
     ],
     [
-      "U",
-      "S",
-      "X",
-      "S",
-      "U",
+      "A",
+      "V",
+      "O",
+      "O",
       "N",
-      "S",
+      "L",
+      "C",
+      "O",
+      "C",
+      "R"
+    ],
+    [
+      "Q",
       "E",
+      "M",
+      "C",
+      "L",
+      "J",
+      "U",
+      "A",
       "T",
       "O"
     ],
     [
-      "Y",
+      "W",
       "T",
-      "F",
-      "L",
-      "A",
-      "N",
-      "T",
+      "W",
+      "C",
       "E",
-      "R",
-      "N"
-    ],
-    [
-      "J",
-      "L",
-      "P",
-      "D",
-      "P",
+      "C",
+      "Q",
+      "C",
       "A",
-      "X",
-      "A",
-      "S",
-      "R"
-    ],
-    [
-      "M",
-      "E",
-      "T",
-      "R",
-      "U",
-      "M",
-      "P",
-      "E",
-      "T",
-      "R"
+      "W"
     ],
     [
       "G",
-      "Q",
-      "L",
+      "K",
       "S",
-      "R",
-      "L",
-      "E",
-      "M",
-      "O",
-      "N"
-    ],
-    [
-      "Q",
-      "U",
-      "A",
-      "R",
-      "T",
       "Z",
-      "C",
-      "F",
-      "V",
+      "H",
+      "A",
+      "A",
+      "H",
+      "R",
       "K"
     ],
     [
+      "X",
+      "E",
+      "N",
+      "O",
+      "N",
+      "K",
+      "N",
+      "N",
+      "N",
+      "Y"
+    ],
+    [
+      "W",
+      "B",
+      "R",
+      "I",
       "D",
-      "E",
-      "S",
-      "I",
-      "E",
-      "N",
       "G",
-      "I",
-      "N",
-      "E"
+      "E",
+      "Q",
+      "O",
+      "G"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "LANTERN",
+      "word": "VOLCANO",
       "path": [
         {
-          "row": 4,
-          "col": 3
-        },
-        {
-          "row": 4,
-          "col": 4
-        },
-        {
-          "row": 4,
-          "col": 5
-        },
-        {
-          "row": 4,
-          "col": 6
-        },
-        {
-          "row": 4,
-          "col": 7
-        },
-        {
-          "row": 4,
-          "col": 8
-        },
-        {
-          "row": 4,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "TRUMPET",
-      "path": [
-        {
-          "row": 6,
+          "row": 3,
           "col": 2
         },
         {
-          "row": 6,
+          "row": 4,
           "col": 3
         },
         {
-          "row": 6,
+          "row": 5,
           "col": 4
         },
         {
@@ -176,137 +143,54 @@
           "col": 5
         },
         {
-          "row": 6,
+          "row": 7,
           "col": 6
         },
         {
-          "row": 6,
+          "row": 8,
           "col": 7
         },
         {
-          "row": 6,
+          "row": 9,
           "col": 8
         }
       ]
     },
     {
-      "word": "ENGINE",
+      "word": "SPARROW",
       "path": [
         {
-          "row": 9,
-          "col": 4
+          "row": 0,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 5
+          "row": 1,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 6
+          "row": 2,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 7
+          "row": 3,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 8
+          "row": 4,
+          "col": 9
         },
         {
-          "row": 9,
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
           "col": 9
         }
       ]
     },
     {
-      "word": "QUARTZ",
-      "path": [
-        {
-          "row": 8,
-          "col": 0
-        },
-        {
-          "row": 8,
-          "col": 1
-        },
-        {
-          "row": 8,
-          "col": 2
-        },
-        {
-          "row": 8,
-          "col": 3
-        },
-        {
-          "row": 8,
-          "col": 4
-        },
-        {
-          "row": 8,
-          "col": 5
-        }
-      ]
-    },
-    {
-      "word": "SUNSET",
-      "path": [
-        {
-          "row": 3,
-          "col": 3
-        },
-        {
-          "row": 3,
-          "col": 4
-        },
-        {
-          "row": 3,
-          "col": 5
-        },
-        {
-          "row": 3,
-          "col": 6
-        },
-        {
-          "row": 3,
-          "col": 7
-        },
-        {
-          "row": 3,
-          "col": 8
-        }
-      ]
-    },
-    {
-      "word": "BRIDGE",
-      "path": [
-        {
-          "row": 2,
-          "col": 4
-        },
-        {
-          "row": 2,
-          "col": 5
-        },
-        {
-          "row": 2,
-          "col": 6
-        },
-        {
-          "row": 2,
-          "col": 7
-        },
-        {
-          "row": 2,
-          "col": 8
-        },
-        {
-          "row": 2,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "CASTLE",
+      "word": "VELVET",
       "path": [
         {
           "row": 1,
@@ -335,39 +219,147 @@
       ]
     },
     {
-      "word": "LEMON",
+      "word": "BRIDGE",
       "path": [
+        {
+          "row": 9,
+          "col": 1
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "path": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "word": "IGLOO",
+      "path": [
+        {
+          "row": 0,
+          "col": 7
+        },
+        {
+          "row": 1,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "word": "OCEAN",
+      "path": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
         {
           "row": 7,
           "col": 5
         },
         {
-          "row": 7,
+          "row": 8,
           "col": 6
+        }
+      ]
+    },
+    {
+      "word": "XENON",
+      "path": [
+        {
+          "row": 8,
+          "col": 0
         },
         {
-          "row": 7,
-          "col": 7
+          "row": 8,
+          "col": 1
         },
         {
-          "row": 7,
-          "col": 8
+          "row": 8,
+          "col": 2
         },
         {
-          "row": 7,
-          "col": 9
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
         }
       ]
     }
   ],
   "words": [
-    "LANTERN",
-    "TRUMPET",
-    "ENGINE",
-    "QUARTZ",
-    "SUNSET",
+    "VOLCANO",
+    "SPARROW",
+    "VELVET",
     "BRIDGE",
-    "CASTLE",
-    "LEMON"
+    "NECTAR",
+    "IGLOO",
+    "OCEAN",
+    "XENON"
   ]
 }
