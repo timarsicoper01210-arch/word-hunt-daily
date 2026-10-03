@@ -1,166 +1,232 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "grid": [
     [
-      "U",
-      "R",
+      "W",
       "C",
-      "H",
+      "E",
+      "K",
+      "A",
+      "Y",
+      "A",
+      "K",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      "A",
+      "C",
+      "S",
+      "M",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D"
+    ],
+    [
       "I",
+      "U",
+      "L",
+      "G",
+      "J",
+      "M",
+      "L",
+      "Y",
+      "R",
+      "J"
+    ],
+    [
+      "O",
+      "T",
+      "M",
+      "R",
+      "T",
+      "M",
+      "E",
       "N",
+      "F",
+      "A"
+    ],
+    [
+      "W",
+      "D",
       "R",
       "B",
       "U",
+      "H",
+      "M",
+      "E",
+      "H",
       "C"
     ],
     [
-      "T",
-      "U",
-      "H",
-      "K",
-      "I",
-      "T",
-      "T",
-      "E",
-      "N",
-      "Y"
-    ],
-    [
-      "Y",
-      "S",
-      "U",
-      "N",
-      "S",
-      "E",
-      "T",
-      "T",
-      "M",
-      "O"
-    ],
-    [
-      "Z",
-      "E",
-      "B",
-      "R",
-      "A",
-      "R",
-      "S",
-      "N",
-      "N",
-      "B"
-    ],
-    [
-      "E",
-      "E",
-      "S",
-      "T",
-      "R",
-      "U",
-      "M",
-      "P",
-      "E",
-      "T"
-    ],
-    [
-      "A",
       "Q",
-      "U",
-      "K",
-      "B",
-      "L",
-      "Y",
-      "U",
-      "Z",
-      "G"
-    ],
-    [
-      "P",
-      "L",
-      "N",
-      "E",
-      "C",
-      "T",
-      "A",
-      "R",
       "X",
+      "F",
+      "G",
+      "R",
+      "S",
+      "O",
+      "M",
+      "B",
+      "K"
+    ],
+    [
+      "W",
+      "U",
+      "A",
+      "S",
+      "K",
+      "E",
+      "N",
+      "T",
+      "M",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "O",
+      "D",
+      "Y",
+      "L",
+      "H",
+      "P",
       "T"
     ],
     [
-      "P",
-      "Q",
-      "L",
-      "J",
-      "W",
-      "Y",
+      "K",
       "T",
-      "H",
-      "Y",
-      "I"
-    ],
-    [
+      "I",
+      "G",
+      "E",
+      "R",
+      "D",
       "L",
-      "R",
-      "Z",
-      "E",
-      "P",
-      "H",
-      "Y",
-      "R",
-      "Y",
-      "S"
+      "W",
+      "T"
     ],
     [
-      "E",
+      "R",
       "S",
-      "V",
+      "P",
+      "W",
+      "L",
       "B",
       "R",
-      "T",
-      "T",
-      "O",
-      "L",
-      "B"
+      "Q",
+      "A",
+      "Z"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "TRUMPET",
+      "word": "UMBRELLA",
       "path": [
+        {
+          "row": 2,
+          "col": 1
+        },
+        {
+          "row": 3,
+          "col": 2
+        },
         {
           "row": 4,
           "col": 3
         },
         {
-          "row": 4,
+          "row": 5,
           "col": 4
         },
         {
-          "row": 4,
+          "row": 6,
           "col": 5
         },
         {
-          "row": 4,
+          "row": 7,
           "col": 6
         },
         {
-          "row": 4,
+          "row": 8,
           "col": 7
         },
         {
-          "row": 4,
+          "row": 9,
           "col": 8
+        }
+      ]
+    },
+    {
+      "word": "JACKET",
+      "path": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
         },
         {
           "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
           "col": 9
         }
       ]
     },
     {
-      "word": "SUNSET",
+      "word": "MELODY",
       "path": [
         {
-          "row": 2,
+          "row": 7,
+          "col": 0
+        },
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "path": [
+        {
+          "row": 0,
+          "col": 0
+        },
+        {
+          "row": 1,
           "col": 1
         },
         {
@@ -168,63 +234,72 @@
           "col": 2
         },
         {
-          "row": 2,
+          "row": 3,
           "col": 3
         },
         {
-          "row": 2,
+          "row": 4,
           "col": 4
         },
         {
-          "row": 2,
+          "row": 5,
           "col": 5
-        },
-        {
-          "row": 2,
-          "col": 6
         }
       ]
     },
     {
-      "word": "ZEPHYR",
+      "word": "KAYAK",
       "path": [
         {
-          "row": 8,
-          "col": 2
-        },
-        {
-          "row": 8,
+          "row": 0,
           "col": 3
         },
         {
-          "row": 8,
+          "row": 0,
           "col": 4
         },
         {
-          "row": 8,
+          "row": 0,
           "col": 5
         },
         {
-          "row": 8,
+          "row": 0,
           "col": 6
         },
         {
-          "row": 8,
+          "row": 0,
           "col": 7
         }
       ]
     },
     {
-      "word": "KITTEN",
+      "word": "LEMON",
       "path": [
         {
-          "row": 1,
-          "col": 3
+          "row": 2,
+          "col": 6
         },
         {
-          "row": 1,
-          "col": 4
+          "row": 3,
+          "col": 6
         },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "path": [
         {
           "row": 1,
           "col": 5
@@ -240,126 +315,47 @@
         {
           "row": 1,
           "col": 8
+        },
+        {
+          "row": 1,
+          "col": 9
         }
       ]
     },
     {
-      "word": "NECTAR",
+      "word": "TIGER",
       "path": [
         {
-          "row": 6,
-          "col": 2
-        },
-        {
-          "row": 6,
-          "col": 3
-        },
-        {
-          "row": 6,
-          "col": 4
-        },
-        {
-          "row": 6,
-          "col": 5
-        },
-        {
-          "row": 6,
-          "col": 6
-        },
-        {
-          "row": 6,
-          "col": 7
-        }
-      ]
-    },
-    {
-      "word": "URCHIN",
-      "path": [
-        {
-          "row": 0,
-          "col": 0
-        },
-        {
-          "row": 0,
+          "row": 8,
           "col": 1
-        },
-        {
-          "row": 0,
-          "col": 2
-        },
-        {
-          "row": 0,
-          "col": 3
-        },
-        {
-          "row": 0,
-          "col": 4
-        },
-        {
-          "row": 0,
-          "col": 5
-        }
-      ]
-    },
-    {
-      "word": "APPLE",
-      "path": [
-        {
-          "row": 5,
-          "col": 0
-        },
-        {
-          "row": 6,
-          "col": 0
-        },
-        {
-          "row": 7,
-          "col": 0
         },
         {
           "row": 8,
-          "col": 0
-        },
-        {
-          "row": 9,
-          "col": 0
-        }
-      ]
-    },
-    {
-      "word": "ZEBRA",
-      "path": [
-        {
-          "row": 3,
-          "col": 0
-        },
-        {
-          "row": 3,
-          "col": 1
-        },
-        {
-          "row": 3,
           "col": 2
         },
         {
-          "row": 3,
+          "row": 8,
           "col": 3
         },
         {
-          "row": 3,
+          "row": 8,
           "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
         }
       ]
     }
   ],
   "words": [
-    "TRUMPET",
-    "SUNSET",
-    "ZEPHYR",
-    "KITTEN",
-    "NECTAR",
-    "URCHIN",
-    "APPLE",
-    "ZEBRA"
+    "UMBRELLA",
+    "JACKET",
+    "MELODY",
+    "WALRUS",
+    "KAYAK",
+    "LEMON",
+    "CLOUD",
+    "TIGER"
   ]
 }
