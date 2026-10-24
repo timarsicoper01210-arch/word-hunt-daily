@@ -1,47 +1,23 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "grid": [
     [
-      "B",
-      "M",
+      "F",
+      "D",
+      "I",
+      "C",
+      "X",
+      "L",
       "R",
-      "C",
-      "N",
-      "A",
-      "P",
-      "P",
-      "L",
-      "E"
-    ],
-    [
-      "Q",
-      "T",
-      "O",
-      "L",
-      "E",
-      "M",
-      "O",
-      "N",
-      "H",
-      "F"
-    ],
-    [
-      "Q",
-      "E",
-      "C",
-      "A",
-      "A",
-      "B",
-      "L",
+      "G",
       "Z",
-      "M",
-      "N"
+      "A"
     ],
     [
-      "K",
-      "N",
-      "K",
-      "Y",
+      "A",
+      "A",
+      "S",
+      "P",
       "W",
       "I",
       "N",
@@ -50,147 +26,192 @@
       "R"
     ],
     [
-      "M",
-      "N",
-      "E",
-      "C",
-      "T",
-      "A",
-      "R",
-      "C",
       "L",
-      "B"
-    ],
-    [
-      "E",
+      "K",
+      "L",
       "H",
+      "B",
+      "D",
       "T",
-      "S",
-      "X",
-      "T",
-      "J",
-      "Y",
-      "T",
-      "N"
+      "K",
+      "O",
+      "I"
     ],
     [
-      "L",
-      "F",
-      "U",
-      "W",
-      "Q",
-      "X",
-      "F",
       "C",
-      "F",
+      "X",
+      "A",
+      "X",
+      "U",
+      "E",
+      "A",
+      "N",
+      "D",
+      "D"
+    ],
+    [
+      "O",
+      "Q",
+      "N",
+      "N",
+      "T",
+      "R",
+      "A",
+      "N",
+      "S",
+      "K"
+    ],
+    [
+      "N",
+      "B",
+      "D",
+      "A",
+      "I",
+      "D",
+      "C",
+      "C",
+      "C",
+      "V"
+    ],
+    [
+      "H",
+      "L",
+      "W",
+      "H",
+      "G",
+      "O",
+      "O",
+      "H",
+      "H",
+      "E"
+    ],
+    [
+      "W",
+      "I",
+      "V",
+      "O",
+      "E",
+      "P",
+      "D",
+      "K",
+      "I",
       "O"
     ],
     [
-      "X",
-      "H",
-      "O",
+      "B",
+      "D",
+      "Z",
+      "A",
       "R",
-      "I",
+      "W",
       "Z",
       "O",
-      "N",
-      "C",
-      "U"
-    ],
-    [
-      "J",
-      "L",
-      "T",
-      "R",
-      "U",
-      "M",
-      "P",
-      "E",
-      "T",
-      "T"
-    ],
-    [
-      "P",
       "W",
-      "C",
-      "X",
-      "S",
-      "U",
-      "N",
-      "S",
+      "N"
+    ],
+    [
+      "K",
+      "O",
       "E",
-      "T"
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N",
+      "S"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "TRUMPET",
+      "word": "FALCON",
       "path": [
         {
-          "row": 8,
-          "col": 2
+          "row": 0,
+          "col": 0
         },
         {
-          "row": 8,
-          "col": 3
+          "row": 1,
+          "col": 0
         },
         {
-          "row": 8,
+          "row": 2,
+          "col": 0
+        },
+        {
+          "row": 3,
+          "col": 0
+        },
+        {
+          "row": 4,
+          "col": 0
+        },
+        {
+          "row": 5,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "word": "URCHIN",
+      "path": [
+        {
+          "row": 3,
           "col": 4
         },
         {
-          "row": 8,
+          "row": 4,
           "col": 5
         },
         {
-          "row": 8,
+          "row": 5,
           "col": 6
         },
         {
-          "row": 8,
+          "row": 6,
           "col": 7
         },
         {
-          "row": 8,
+          "row": 7,
           "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
         }
       ]
     },
     {
-      "word": "HORIZON",
+      "word": "WINTER",
       "path": [
         {
-          "row": 7,
-          "col": 1
-        },
-        {
-          "row": 7,
-          "col": 2
-        },
-        {
-          "row": 7,
-          "col": 3
-        },
-        {
-          "row": 7,
+          "row": 1,
           "col": 4
         },
         {
-          "row": 7,
+          "row": 1,
           "col": 5
         },
         {
-          "row": 7,
+          "row": 1,
           "col": 6
         },
         {
-          "row": 7,
+          "row": 1,
           "col": 7
+        },
+        {
+          "row": 1,
+          "col": 8
+        },
+        {
+          "row": 1,
+          "col": 9
         }
       ]
     },
     {
-      "word": "ROCKET",
+      "word": "ISLAND",
       "path": [
         {
           "row": 0,
@@ -219,67 +240,13 @@
       ]
     },
     {
-      "word": "WINTER",
+      "word": "GARDEN",
       "path": [
         {
-          "row": 3,
-          "col": 4
-        },
-        {
-          "row": 3,
-          "col": 5
-        },
-        {
-          "row": 3,
-          "col": 6
-        },
-        {
-          "row": 3,
-          "col": 7
-        },
-        {
-          "row": 3,
-          "col": 8
-        },
-        {
-          "row": 3,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "NECTAR",
-      "path": [
-        {
-          "row": 4,
-          "col": 1
-        },
-        {
-          "row": 4,
-          "col": 2
-        },
-        {
-          "row": 4,
+          "row": 9,
           "col": 3
         },
         {
-          "row": 4,
-          "col": 4
-        },
-        {
-          "row": 4,
-          "col": 5
-        },
-        {
-          "row": 4,
-          "col": 6
-        }
-      ]
-    },
-    {
-      "word": "SUNSET",
-      "path": [
-        {
           "row": 9,
           "col": 4
         },
@@ -298,72 +265,93 @@
         {
           "row": 9,
           "col": 8
-        },
-        {
-          "row": 9,
-          "col": 9
         }
       ]
     },
     {
-      "word": "LEMON",
+      "word": "BEACH",
       "path": [
         {
-          "row": 1,
-          "col": 3
-        },
-        {
-          "row": 1,
+          "row": 2,
           "col": 4
         },
         {
-          "row": 1,
+          "row": 3,
           "col": 5
         },
         {
-          "row": 1,
+          "row": 4,
           "col": 6
         },
         {
-          "row": 1,
+          "row": 5,
           "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
         }
       ]
     },
     {
-      "word": "APPLE",
+      "word": "DANCE",
       "path": [
         {
-          "row": 0,
+          "row": 2,
           "col": 5
         },
         {
-          "row": 0,
+          "row": 3,
           "col": 6
         },
         {
-          "row": 0,
+          "row": 4,
           "col": 7
         },
         {
-          "row": 0,
+          "row": 5,
           "col": 8
         },
         {
-          "row": 0,
+          "row": 6,
           "col": 9
+        }
+      ]
+    },
+    {
+      "word": "TIGER",
+      "path": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
         }
       ]
     }
   ],
   "words": [
-    "TRUMPET",
-    "HORIZON",
-    "ROCKET",
+    "FALCON",
+    "URCHIN",
     "WINTER",
-    "NECTAR",
-    "SUNSET",
-    "LEMON",
-    "APPLE"
+    "ISLAND",
+    "GARDEN",
+    "BEACH",
+    "DANCE",
+    "TIGER"
   ]
 }
