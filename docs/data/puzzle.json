@@ -1,295 +1,274 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "grid": [
     [
-      "M",
-      "O",
-      "C",
-      "V",
-      "O",
+      "J",
+      "U",
+      "N",
+      "G",
       "L",
+      "E",
+      "I",
       "C",
+      "X",
+      "G"
+    ],
+    [
+      "O",
+      "H",
+      "O",
+      "C",
+      "E",
       "A",
       "N",
+      "L",
+      "S",
       "O"
     ],
     [
-      "A",
-      "Y",
-      "P",
-      "C",
+      "L",
       "Q",
-      "U",
       "A",
-      "R",
-      "T",
-      "Z"
+      "W",
+      "U",
+      "M",
+      "J",
+      "O",
+      "P",
+      "M"
     ],
     [
       "G",
-      "E",
-      "T",
-      "O",
-      "C",
-      "E",
       "A",
+      "R",
+      "D",
+      "E",
       "N",
-      "N",
-      "R"
+      "S",
+      "G",
+      "A",
+      "H"
     ],
     [
-      "Z",
-      "B",
       "S",
+      "T",
+      "S",
+      "H",
+      "F",
+      "L",
+      "U",
+      "C",
+      "R",
+      "J"
+    ],
+    [
+      "K",
+      "I",
+      "I",
+      "R",
+      "A",
+      "M",
       "N",
+      "L",
+      "R",
+      "U"
+    ],
+    [
+      "L",
+      "G",
+      "G",
+      "L",
+      "L",
+      "U",
+      "S",
       "O",
       "O",
-      "D",
+      "U"
+    ],
+    [
+      "I",
+      "E",
+      "A",
+      "X",
+      "C",
       "L",
       "E",
+      "U",
+      "W",
       "W"
     ],
     [
-      "D",
-      "E",
-      "S",
-      "E",
+      "K",
       "R",
-      "T",
-      "N",
-      "Z",
-      "A",
-      "K"
-    ],
-    [
-      "B",
-      "H",
-      "T",
-      "Z",
-      "D",
-      "M",
-      "Z",
-      "Z",
-      "D",
-      "A"
-    ],
-    [
-      "Z",
-      "Y",
-      "R",
-      "W",
-      "X",
-      "E",
-      "I",
-      "I",
-      "L",
-      "Y"
-    ],
-    [
-      "N",
-      "E",
-      "A",
-      "G",
-      "L",
-      "E",
-      "L",
-      "V",
-      "N",
-      "A"
-    ],
-    [
-      "R",
-      "G",
-      "E",
-      "I",
-      "P",
-      "E",
       "C",
-      "J",
-      "V",
-      "K"
+      "I",
+      "O",
+      "D",
+      "T",
+      "D",
+      "B",
+      "P"
     ],
     [
-      "N",
-      "I",
-      "G",
       "L",
-      "O",
+      "D",
       "O",
       "K",
-      "O",
-      "J",
-      "O"
+      "N",
+      "L",
+      "D",
+      "C",
+      "C",
+      "E"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "VOLCANO",
+      "word": "SPARROW",
       "path": [
-        {
-          "row": 0,
-          "col": 3
-        },
-        {
-          "row": 0,
-          "col": 4
-        },
-        {
-          "row": 0,
-          "col": 5
-        },
-        {
-          "row": 0,
-          "col": 6
-        },
-        {
-          "row": 0,
-          "col": 7
-        },
-        {
-          "row": 0,
-          "col": 8
-        },
-        {
-          "row": 0,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "QUARTZ",
-      "path": [
-        {
-          "row": 1,
-          "col": 4
-        },
-        {
-          "row": 1,
-          "col": 5
-        },
-        {
-          "row": 1,
-          "col": 6
-        },
-        {
-          "row": 1,
-          "col": 7
-        },
         {
           "row": 1,
           "col": 8
         },
         {
-          "row": 1,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "DESERT",
-      "path": [
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
         {
           "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "path": [
+        {
+          "row": 3,
           "col": 0
         },
         {
-          "row": 4,
+          "row": 3,
           "col": 1
         },
         {
-          "row": 4,
+          "row": 3,
           "col": 2
         },
         {
-          "row": 4,
+          "row": 3,
           "col": 3
         },
         {
-          "row": 4,
+          "row": 3,
           "col": 4
         },
         {
-          "row": 4,
+          "row": 3,
           "col": 5
         }
       ]
     },
     {
-      "word": "NOODLE",
+      "word": "FALCON",
       "path": [
         {
-          "row": 3,
-          "col": 3
-        },
-        {
-          "row": 3,
+          "row": 4,
           "col": 4
         },
         {
-          "row": 3,
-          "col": 5
+          "row": 5,
+          "col": 4
         },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "path": [
+        {
+          "row": 0,
+          "col": 0
+        },
+        {
+          "row": 0,
+          "col": 1
+        },
+        {
+          "row": 0,
+          "col": 2
+        },
+        {
+          "row": 0,
+          "col": 3
+        },
+        {
+          "row": 0,
+          "col": 4
+        },
+        {
+          "row": 0,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "path": [
         {
           "row": 3,
           "col": 6
         },
         {
-          "row": 3,
-          "col": 7
+          "row": 4,
+          "col": 6
         },
         {
-          "row": 3,
-          "col": 8
-        }
-      ]
-    },
-    {
-      "word": "IGLOO",
-      "path": [
-        {
-          "row": 9,
-          "col": 1
+          "row": 5,
+          "col": 6
         },
         {
-          "row": 9,
-          "col": 2
-        },
-        {
-          "row": 9,
-          "col": 3
-        },
-        {
-          "row": 9,
-          "col": 4
-        },
-        {
-          "row": 9,
-          "col": 5
-        }
-      ]
-    },
-    {
-      "word": "EAGLE",
-      "path": [
-        {
-          "row": 7,
-          "col": 1
+          "row": 6,
+          "col": 6
         },
         {
           "row": 7,
-          "col": 2
+          "col": 6
         },
         {
-          "row": 7,
-          "col": 3
-        },
-        {
-          "row": 7,
-          "col": 4
-        },
-        {
-          "row": 7,
-          "col": 5
+          "row": 8,
+          "col": 6
         }
       ]
     },
@@ -297,61 +276,86 @@
       "word": "OCEAN",
       "path": [
         {
-          "row": 2,
+          "row": 1,
+          "col": 2
+        },
+        {
+          "row": 1,
           "col": 3
         },
         {
-          "row": 2,
+          "row": 1,
           "col": 4
         },
         {
-          "row": 2,
+          "row": 1,
           "col": 5
         },
         {
-          "row": 2,
+          "row": 1,
           "col": 6
-        },
-        {
-          "row": 2,
-          "col": 7
         }
       ]
     },
     {
-      "word": "KAYAK",
+      "word": "TIGER",
       "path": [
         {
           "row": 4,
-          "col": 9
+          "col": 1
         },
         {
           "row": 5,
-          "col": 9
+          "col": 1
         },
         {
           "row": 6,
-          "col": 9
+          "col": 1
         },
         {
           "row": 7,
-          "col": 9
+          "col": 1
         },
         {
           "row": 8,
-          "col": 9
+          "col": 1
+        }
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "path": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
         }
       ]
     }
   ],
   "words": [
-    "VOLCANO",
-    "QUARTZ",
-    "DESERT",
-    "NOODLE",
-    "IGLOO",
-    "EAGLE",
+    "SPARROW",
+    "GARDEN",
+    "FALCON",
+    "JUNGLE",
+    "SUNSET",
     "OCEAN",
-    "KAYAK"
+    "TIGER",
+    "CLOUD"
   ]
 }
