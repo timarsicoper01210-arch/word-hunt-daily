@@ -1,176 +1,197 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "grid": [
     [
-      "J",
-      "U",
+      "G",
+      "A",
+      "P",
+      "E",
       "N",
       "G",
-      "L",
-      "E",
+      "U",
       "I",
-      "C",
-      "X",
+      "N",
       "G"
     ],
     [
-      "O",
-      "H",
-      "O",
-      "C",
+      "Y",
+      "P",
+      "P",
+      "U",
+      "J",
+      "U",
+      "N",
+      "G",
+      "L",
+      "E"
+    ],
+    [
+      "K",
+      "S",
+      "U",
+      "N",
+      "S",
       "E",
+      "T",
+      "Y",
+      "K",
+      "X"
+    ],
+    [
+      "H",
+      "C",
+      "X",
+      "V",
+      "O",
+      "L",
+      "C",
       "A",
       "N",
-      "L",
-      "S",
       "O"
     ],
     [
-      "L",
-      "Q",
-      "A",
-      "W",
       "U",
-      "M",
-      "J",
       "O",
-      "P",
-      "M"
-    ],
-    [
       "G",
-      "A",
-      "R",
-      "D",
       "E",
+      "M",
+      "B",
       "N",
-      "S",
-      "G",
-      "A",
-      "H"
-    ],
-    [
-      "S",
-      "T",
-      "S",
-      "H",
       "F",
-      "L",
-      "U",
-      "C",
-      "R",
-      "J"
+      "E",
+      "B"
     ],
     [
-      "K",
-      "I",
-      "I",
+      "T",
+      "Y",
       "R",
       "A",
-      "M",
       "N",
-      "L",
-      "R",
-      "U"
-    ],
-    [
-      "L",
-      "G",
-      "G",
-      "L",
-      "L",
-      "U",
-      "S",
-      "O",
-      "O",
-      "U"
-    ],
-    [
-      "I",
+      "Y",
       "E",
-      "A",
+      "Y",
       "X",
-      "C",
-      "L",
-      "E",
-      "U",
-      "W",
+      "Y"
+    ],
+    [
+      "B",
+      "B",
+      "Z",
+      "I",
+      "R",
+      "O",
+      "X",
+      "A",
+      "G",
       "W"
     ],
     [
-      "K",
+      "U",
+      "M",
+      "H",
       "R",
+      "Z",
+      "D",
+      "N",
+      "Q",
       "C",
-      "I",
-      "O",
-      "D",
-      "T",
-      "D",
-      "B",
-      "P"
+      "V"
     ],
     [
-      "L",
-      "D",
+      "F",
+      "B",
+      "X",
+      "M",
+      "T",
       "O",
-      "K",
-      "N",
-      "L",
+      "E",
+      "H",
+      "T",
+      "H"
+    ],
+    [
+      "P",
       "D",
-      "C",
-      "C",
-      "E"
+      "L",
+      "J",
+      "E",
+      "S",
+      "N",
+      "N",
+      "F",
+      "C"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "SPARROW",
+      "word": "PENGUIN",
       "path": [
         {
-          "row": 1,
-          "col": 8
+          "row": 0,
+          "col": 2
         },
         {
-          "row": 2,
-          "col": 8
+          "row": 0,
+          "col": 3
         },
         {
-          "row": 3,
-          "col": 8
+          "row": 0,
+          "col": 4
         },
         {
-          "row": 4,
-          "col": 8
+          "row": 0,
+          "col": 5
         },
         {
-          "row": 5,
-          "col": 8
+          "row": 0,
+          "col": 6
         },
         {
-          "row": 6,
-          "col": 8
+          "row": 0,
+          "col": 7
         },
         {
-          "row": 7,
+          "row": 0,
           "col": 8
         }
       ]
     },
     {
-      "word": "GARDEN",
+      "word": "HORIZON",
       "path": [
         {
           "row": 3,
           "col": 0
         },
         {
-          "row": 3,
+          "row": 4,
           "col": 1
         },
         {
-          "row": 3,
+          "row": 5,
           "col": 2
         },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "path": [
         {
           "row": 3,
           "col": 3
@@ -182,35 +203,22 @@
         {
           "row": 3,
           "col": 5
-        }
-      ]
-    },
-    {
-      "word": "FALCON",
-      "path": [
-        {
-          "row": 4,
-          "col": 4
         },
         {
-          "row": 5,
-          "col": 4
+          "row": 3,
+          "col": 6
         },
         {
-          "row": 6,
-          "col": 4
+          "row": 3,
+          "col": 7
         },
         {
-          "row": 7,
-          "col": 4
+          "row": 3,
+          "col": 8
         },
         {
-          "row": 8,
-          "col": 4
-        },
-        {
-          "row": 9,
-          "col": 4
+          "row": 3,
+          "col": 9
         }
       ]
     },
@@ -218,28 +226,57 @@
       "word": "JUNGLE",
       "path": [
         {
-          "row": 0,
-          "col": 0
-        },
-        {
-          "row": 0,
-          "col": 1
-        },
-        {
-          "row": 0,
-          "col": 2
-        },
-        {
-          "row": 0,
-          "col": 3
-        },
-        {
-          "row": 0,
+          "row": 1,
           "col": 4
         },
         {
-          "row": 0,
+          "row": 1,
           "col": 5
+        },
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 1,
+          "col": 7
+        },
+        {
+          "row": 1,
+          "col": 8
+        },
+        {
+          "row": 1,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "path": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
         }
       ]
     },
@@ -247,115 +284,90 @@
       "word": "SUNSET",
       "path": [
         {
-          "row": 3,
-          "col": 6
+          "row": 2,
+          "col": 1
         },
         {
-          "row": 4,
-          "col": 6
-        },
-        {
-          "row": 5,
-          "col": 6
-        },
-        {
-          "row": 6,
-          "col": 6
-        },
-        {
-          "row": 7,
-          "col": 6
-        },
-        {
-          "row": 8,
-          "col": 6
-        }
-      ]
-    },
-    {
-      "word": "OCEAN",
-      "path": [
-        {
-          "row": 1,
+          "row": 2,
           "col": 2
         },
         {
-          "row": 1,
+          "row": 2,
           "col": 3
         },
         {
-          "row": 1,
+          "row": 2,
           "col": 4
         },
         {
-          "row": 1,
+          "row": 2,
           "col": 5
         },
         {
-          "row": 1,
+          "row": 2,
           "col": 6
         }
       ]
     },
     {
-      "word": "TIGER",
+      "word": "BEACH",
       "path": [
         {
           "row": 4,
-          "col": 1
+          "col": 5
         },
         {
           "row": 5,
-          "col": 1
+          "col": 6
         },
         {
           "row": 6,
-          "col": 1
+          "col": 7
         },
         {
           "row": 7,
-          "col": 1
+          "col": 8
         },
         {
           "row": 8,
-          "col": 1
+          "col": 9
         }
       ]
     },
     {
-      "word": "CLOUD",
+      "word": "XENON",
       "path": [
         {
+          "row": 3,
+          "col": 2
+        },
+        {
           "row": 4,
-          "col": 7
+          "col": 3
         },
         {
           "row": 5,
-          "col": 7
+          "col": 4
         },
         {
           "row": 6,
-          "col": 7
+          "col": 5
         },
         {
           "row": 7,
-          "col": 7
-        },
-        {
-          "row": 8,
-          "col": 7
+          "col": 6
         }
       ]
     }
   ],
   "words": [
-    "SPARROW",
-    "GARDEN",
-    "FALCON",
+    "PENGUIN",
+    "HORIZON",
+    "VOLCANO",
     "JUNGLE",
+    "GARDEN",
     "SUNSET",
-    "OCEAN",
-    "TIGER",
-    "CLOUD"
+    "BEACH",
+    "XENON"
   ]
 }
