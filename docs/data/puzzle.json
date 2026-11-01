@@ -1,187 +1,195 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "grid": [
     [
-      "L",
-      "W",
-      "I",
-      "O",
+      "E",
+      "H",
+      "P",
+      "J",
       "D",
-      "B",
-      "R",
-      "V",
+      "U",
       "Z",
-      "C"
-    ],
-    [
-      "L",
-      "E",
-      "A",
-      "R",
-      "D",
-      "R",
-      "I",
-      "V",
-      "E",
+      "J",
+      "O",
       "R"
     ],
     [
-      "Z",
-      "T",
-      "M",
-      "L",
+      "X",
+      "Q",
+      "N",
+      "D",
+      "Q",
+      "A",
+      "A",
+      "C",
+      "I",
+      "U"
+    ],
+    [
+      "Y",
+      "F",
       "W",
-      "E",
-      "Z",
+      "T",
+      "I",
+      "F",
+      "T",
+      "K",
+      "K",
+      "M"
+    ],
+    [
+      "Y",
+      "M",
+      "W",
+      "I",
+      "S",
       "R",
-      "R",
+      "S",
+      "H",
+      "K",
       "B"
     ],
     [
-      "F",
-      "C",
-      "Y",
-      "O",
-      "R",
-      "Y",
-      "S",
-      "B",
-      "I",
-      "V"
-    ],
-    [
-      "J",
-      "O",
-      "W",
-      "G",
-      "N",
-      "U",
-      "Q",
-      "E",
-      "F",
-      "H"
-    ],
-    [
-      "U",
-      "R",
-      "C",
-      "H",
-      "I",
-      "N",
-      "S",
-      "Q",
-      "R",
-      "V"
-    ],
-    [
-      "C",
-      "Z",
-      "F",
-      "H",
-      "E",
-      "I",
-      "K",
-      "P",
-      "E",
-      "T"
-    ],
-    [
-      "G",
-      "A",
-      "C",
-      "T",
-      "B",
-      "E",
-      "A",
-      "C",
-      "H",
-      "D"
-    ],
-    [
-      "O",
-      "C",
-      "E",
-      "A",
-      "N",
-      "G",
-      "B",
       "D",
       "T",
-      "O"
-    ],
-    [
-      "D",
-      "M",
+      "A",
       "G",
       "L",
-      "A",
-      "C",
+      "U",
       "I",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "K",
       "E",
+      "L",
+      "E",
+      "A",
       "R",
-      "D"
+      "G",
+      "R",
+      "M",
+      "E"
+    ],
+    [
+      "A",
+      "J",
+      "R",
+      "R",
+      "N",
+      "C",
+      "L",
+      "I",
+      "P",
+      "L"
+    ],
+    [
+      "Y",
+      "D",
+      "U",
+      "Z",
+      "D",
+      "H",
+      "O",
+      "Z",
+      "C",
+      "L"
+    ],
+    [
+      "A",
+      "W",
+      "S",
+      "T",
+      "J",
+      "I",
+      "O",
+      "O",
+      "W",
+      "A"
+    ],
+    [
+      "K",
+      "G",
+      "B",
+      "J",
+      "M",
+      "N",
+      "D",
+      "N",
+      "T",
+      "V"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "GLACIER",
+      "word": "UMBRELLA",
       "path": [
         {
-          "row": 9,
-          "col": 2
+          "row": 1,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 3
+          "row": 2,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 4
+          "row": 3,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 5
+          "row": 4,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 6
+          "row": 5,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 7
+          "row": 6,
+          "col": 9
         },
         {
-          "row": 9,
-          "col": 8
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
         }
       ]
     },
     {
-      "word": "URCHIN",
+      "word": "HORIZON",
       "path": [
         {
-          "row": 5,
-          "col": 0
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
         },
         {
           "row": 5,
-          "col": 1
+          "col": 7
         },
         {
-          "row": 5,
-          "col": 2
+          "row": 6,
+          "col": 7
         },
         {
-          "row": 5,
-          "col": 3
+          "row": 7,
+          "col": 7
         },
         {
-          "row": 5,
-          "col": 4
+          "row": 8,
+          "col": 7
         },
         {
-          "row": 5,
-          "col": 5
+          "row": 9,
+          "col": 7
         }
       ]
     },
@@ -189,99 +197,95 @@
       "word": "WALRUS",
       "path": [
         {
-          "row": 0,
-          "col": 1
-        },
-        {
-          "row": 1,
+          "row": 3,
           "col": 2
         },
         {
-          "row": 2,
-          "col": 3
-        },
-        {
-          "row": 3,
-          "col": 4
-        },
-        {
           "row": 4,
-          "col": 5
+          "col": 2
         },
         {
           "row": 5,
-          "col": 6
-        }
-      ]
-    },
-    {
-      "word": "DESERT",
-      "path": [
-        {
-          "row": 1,
-          "col": 4
-        },
-        {
-          "row": 2,
-          "col": 5
-        },
-        {
-          "row": 3,
-          "col": 6
-        },
-        {
-          "row": 4,
-          "col": 7
-        },
-        {
-          "row": 5,
-          "col": 8
+          "col": 2
         },
         {
           "row": 6,
-          "col": 9
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
         }
       ]
     },
     {
-      "word": "BEACH",
+      "word": "URCHIN",
       "path": [
         {
-          "row": 7,
-          "col": 4
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
         },
         {
           "row": 7,
           "col": 5
         },
         {
-          "row": 7,
-          "col": 6
+          "row": 8,
+          "col": 5
         },
         {
-          "row": 7,
-          "col": 7
-        },
-        {
-          "row": 7,
-          "col": 8
+          "row": 9,
+          "col": 5
         }
       ]
     },
     {
-      "word": "LEMON",
+      "word": "ISLAND",
       "path": [
         {
-          "row": 0,
-          "col": 0
+          "row": 2,
+          "col": 4
         },
         {
-          "row": 1,
-          "col": 1
+          "row": 3,
+          "col": 4
         },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "word": "TIGER",
+      "path": [
         {
           "row": 2,
-          "col": 2
+          "col": 3
         },
         {
           "row": 3,
@@ -289,69 +293,77 @@
         },
         {
           "row": 4,
-          "col": 4
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
         }
       ]
     },
     {
-      "word": "RIVER",
+      "word": "KAYAK",
       "path": [
         {
-          "row": 1,
-          "col": 5
+          "row": 5,
+          "col": 0
         },
         {
-          "row": 1,
-          "col": 6
+          "row": 6,
+          "col": 0
         },
         {
-          "row": 1,
-          "col": 7
+          "row": 7,
+          "col": 0
         },
-        {
-          "row": 1,
-          "col": 8
-        },
-        {
-          "row": 1,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "OCEAN",
-      "path": [
         {
           "row": 8,
           "col": 0
         },
         {
-          "row": 8,
-          "col": 1
+          "row": 9,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "word": "IGLOO",
+      "path": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
         },
         {
           "row": 8,
-          "col": 2
-        },
-        {
-          "row": 8,
-          "col": 3
-        },
-        {
-          "row": 8,
-          "col": 4
+          "col": 6
         }
       ]
     }
   ],
   "words": [
-    "GLACIER",
-    "URCHIN",
+    "UMBRELLA",
+    "HORIZON",
     "WALRUS",
-    "DESERT",
-    "BEACH",
-    "LEMON",
-    "RIVER",
-    "OCEAN"
+    "URCHIN",
+    "ISLAND",
+    "TIGER",
+    "KAYAK",
+    "IGLOO"
   ]
 }
