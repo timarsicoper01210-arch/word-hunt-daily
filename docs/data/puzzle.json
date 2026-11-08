@@ -1,377 +1,365 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "grid": [
     [
+      "P",
+      "P",
+      "F",
+      "P",
+      "M",
       "J",
-      "C",
-      "U",
-      "L",
-      "A",
-      "N",
-      "T",
-      "E",
-      "R",
-      "N"
+      "I",
+      "K",
+      "B",
+      "K"
     ],
     [
-      "D",
-      "X",
-      "M",
+      "E",
       "U",
-      "G",
-      "Y",
       "V",
+      "F",
+      "U",
+      "U",
+      "N",
+      "V",
+      "R",
+      "Q"
+    ],
+    [
+      "U",
+      "Z",
+      "U",
+      "A",
+      "S",
+      "C",
       "W",
       "O",
+      "K",
+      "U"
+    ],
+    [
+      "V",
+      "Z",
+      "M",
+      "M",
+      "A",
+      "R",
+      "S",
+      "L",
+      "I",
+      "I"
+    ],
+    [
+      "U",
+      "L",
+      "X",
+      "E",
+      "R",
+      "H",
+      "D",
+      "C",
+      "L",
+      "V"
+    ],
+    [
+      "V",
+      "E",
+      "K",
+      "L",
+      "I",
+      "A",
+      "E",
+      "A",
+      "Z",
+      "E"
+    ],
+    [
+      "I",
+      "J",
+      "K",
+      "O",
+      "V",
+      "R",
+      "S",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      "X",
+      "X",
+      "P",
+      "D",
+      "E",
+      "B",
+      "E",
+      "O",
+      "B",
+      "G"
+    ],
+    [
+      "O",
+      "M",
+      "E",
+      "Y",
+      "R",
+      "O",
+      "R",
+      "N",
+      "R",
       "S"
     ],
     [
-      "U",
-      "E",
-      "B",
-      "H",
-      "I",
-      "S",
-      "L",
-      "A",
-      "N",
-      "D"
-    ],
-    [
-      "Q",
-      "X",
-      "R",
-      "B",
-      "R",
-      "I",
-      "D",
-      "G",
-      "E",
-      "T"
-    ],
-    [
-      "R",
-      "H",
-      "E",
-      "X",
-      "X",
-      "E",
-      "N",
-      "O",
-      "N",
-      "P"
-    ],
-    [
-      "B",
-      "X",
-      "L",
-      "F",
-      "H",
-      "Z",
-      "D",
-      "M",
-      "B",
-      "X"
-    ],
-    [
-      "C",
-      "J",
-      "L",
-      "J",
-      "U",
-      "N",
-      "G",
-      "L",
-      "E",
-      "Y"
-    ],
-    [
-      "W",
-      "X",
-      "A",
-      "G",
-      "E",
-      "R",
-      "G",
-      "P",
-      "U",
-      "W"
-    ],
-    [
-      "H",
-      "I",
       "T",
-      "F",
-      "A",
-      "L",
-      "C",
-      "O",
-      "N",
-      "F"
-    ],
-    [
-      "F",
-      "M",
-      "N",
-      "A",
-      "N",
-      "O",
-      "O",
+      "G",
+      "B",
+      "U",
+      "Z",
+      "R",
+      "T",
       "D",
-      "L",
-      "E"
+      "A",
+      "X"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "UMBRELLA",
+      "word": "VOLCANO",
       "path": [
         {
-          "row": 0,
-          "col": 2
-        },
-        {
           "row": 1,
-          "col": 2
+          "col": 7
         },
         {
           "row": 2,
-          "col": 2
+          "col": 7
         },
         {
           "row": 3,
-          "col": 2
+          "col": 7
         },
         {
           "row": 4,
-          "col": 2
+          "col": 7
         },
         {
           "row": 5,
-          "col": 2
+          "col": 7
         },
         {
           "row": 6,
-          "col": 2
+          "col": 7
         },
         {
           "row": 7,
-          "col": 2
+          "col": 7
         }
       ]
     },
     {
-      "word": "LANTERN",
+      "word": "PUZZLE",
       "path": [
         {
           "row": 0,
-          "col": 3
+          "col": 1
         },
         {
-          "row": 0,
-          "col": 4
+          "row": 1,
+          "col": 1
         },
         {
-          "row": 0,
-          "col": 5
+          "row": 2,
+          "col": 1
         },
         {
-          "row": 0,
+          "row": 3,
+          "col": 1
+        },
+        {
+          "row": 4,
+          "col": 1
+        },
+        {
+          "row": 5,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "path": [
+        {
+          "row": 4,
           "col": 6
         },
         {
-          "row": 0,
-          "col": 7
+          "row": 5,
+          "col": 6
         },
         {
-          "row": 0,
-          "col": 8
+          "row": 6,
+          "col": 6
         },
         {
-          "row": 0,
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "word": "QUIVER",
+      "path": [
+        {
+          "row": 1,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
           "col": 9
         }
       ]
     },
     {
-      "word": "ISLAND",
-      "path": [
-        {
-          "row": 2,
-          "col": 4
-        },
-        {
-          "row": 2,
-          "col": 5
-        },
-        {
-          "row": 2,
-          "col": 6
-        },
-        {
-          "row": 2,
-          "col": 7
-        },
-        {
-          "row": 2,
-          "col": 8
-        },
-        {
-          "row": 2,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "JUNGLE",
-      "path": [
-        {
-          "row": 6,
-          "col": 3
-        },
-        {
-          "row": 6,
-          "col": 4
-        },
-        {
-          "row": 6,
-          "col": 5
-        },
-        {
-          "row": 6,
-          "col": 6
-        },
-        {
-          "row": 6,
-          "col": 7
-        },
-        {
-          "row": 6,
-          "col": 8
-        }
-      ]
-    },
-    {
-      "word": "BRIDGE",
+      "word": "MELODY",
       "path": [
         {
           "row": 3,
           "col": 3
         },
         {
-          "row": 3,
-          "col": 4
+          "row": 4,
+          "col": 3
         },
         {
-          "row": 3,
-          "col": 5
+          "row": 5,
+          "col": 3
         },
         {
-          "row": 3,
-          "col": 6
+          "row": 6,
+          "col": 3
         },
         {
-          "row": 3,
-          "col": 7
-        },
-        {
-          "row": 3,
-          "col": 8
-        }
-      ]
-    },
-    {
-      "word": "NOODLE",
-      "path": [
-        {
-          "row": 9,
-          "col": 4
-        },
-        {
-          "row": 9,
-          "col": 5
-        },
-        {
-          "row": 9,
-          "col": 6
-        },
-        {
-          "row": 9,
-          "col": 7
-        },
-        {
-          "row": 9,
-          "col": 8
-        },
-        {
-          "row": 9,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "FALCON",
-      "path": [
-        {
-          "row": 8,
+          "row": 7,
           "col": 3
         },
         {
           "row": 8,
-          "col": 4
+          "col": 3
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "path": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
         },
         {
           "row": 8,
           "col": 5
         },
         {
-          "row": 8,
-          "col": 6
+          "row": 9,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "path": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
         },
         {
           "row": 8,
-          "col": 7
+          "col": 8
         },
         {
-          "row": 8,
+          "row": 9,
           "col": 8
         }
       ]
     },
     {
-      "word": "XENON",
+      "word": "RIVER",
       "path": [
         {
           "row": 4,
           "col": 4
         },
         {
-          "row": 4,
-          "col": 5
+          "row": 5,
+          "col": 4
         },
         {
-          "row": 4,
-          "col": 6
+          "row": 6,
+          "col": 4
         },
         {
-          "row": 4,
-          "col": 7
+          "row": 7,
+          "col": 4
         },
         {
-          "row": 4,
-          "col": 8
+          "row": 8,
+          "col": 4
         }
       ]
     }
   ],
   "words": [
-    "UMBRELLA",
-    "LANTERN",
-    "ISLAND",
-    "JUNGLE",
-    "BRIDGE",
-    "NOODLE",
-    "FALCON",
-    "XENON"
+    "VOLCANO",
+    "PUZZLE",
+    "DESERT",
+    "QUIVER",
+    "MELODY",
+    "HARBOR",
+    "ZEBRA",
+    "RIVER"
   ]
 }
