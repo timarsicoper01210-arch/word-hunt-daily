@@ -1,158 +1,195 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "grid": [
     [
+      "G",
       "P",
-      "P",
-      "F",
-      "P",
-      "M",
-      "J",
+      "Y",
       "I",
-      "K",
-      "B",
-      "K"
-    ],
-    [
-      "E",
-      "U",
-      "V",
-      "F",
-      "U",
-      "U",
-      "N",
-      "V",
-      "R",
-      "Q"
-    ],
-    [
-      "U",
       "Z",
-      "U",
-      "A",
-      "S",
-      "C",
-      "W",
-      "O",
-      "K",
-      "U"
-    ],
-    [
-      "V",
-      "Z",
-      "M",
-      "M",
-      "A",
       "R",
-      "S",
       "L",
-      "I",
-      "I"
-    ],
-    [
-      "U",
-      "L",
-      "X",
-      "E",
+      "P",
       "R",
-      "H",
-      "D",
-      "C",
-      "L",
       "V"
     ],
     [
-      "V",
-      "E",
-      "K",
-      "L",
-      "I",
-      "A",
-      "E",
-      "A",
-      "Z",
-      "E"
-    ],
-    [
-      "I",
-      "J",
-      "K",
-      "O",
-      "V",
+      "X",
+      "U",
+      "M",
+      "B",
       "R",
-      "S",
-      "N",
       "E",
+      "L",
+      "L",
+      "A",
       "R"
     ],
     [
-      "X",
-      "X",
-      "P",
+      "K",
+      "Z",
+      "T",
       "D",
-      "E",
+      "R",
       "B",
-      "E",
-      "O",
-      "B",
-      "G"
+      "S",
+      "L",
+      "L",
+      "Q"
     ],
     [
-      "O",
-      "M",
+      "B",
+      "Z",
+      "B",
+      "E",
+      "A",
+      "C",
+      "H",
+      "G",
+      "T",
+      "U"
+    ],
+    [
+      "F",
+      "L",
+      "K",
+      "W",
+      "W",
+      "N",
+      "C",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "N",
       "E",
       "Y",
+      "I",
+      "D",
+      "C",
       "R",
-      "O",
       "R",
-      "N",
+      "U",
+      "Z"
+    ],
+    [
+      "H",
+      "J",
+      "L",
+      "I",
+      "T",
+      "K",
+      "V",
+      "D",
+      "M",
+      "L"
+    ],
+    [
+      "M",
+      "K",
       "R",
+      "J",
+      "Z",
+      "T",
+      "X",
+      "E",
+      "P",
       "S"
     ],
     [
-      "T",
-      "G",
-      "B",
-      "U",
-      "Z",
-      "R",
-      "T",
+      "O",
+      "C",
+      "E",
+      "A",
+      "N",
+      "L",
+      "E",
+      "N",
+      "E",
+      "J"
+    ],
+    [
+      "X",
+      "N",
       "D",
       "A",
-      "X"
+      "N",
+      "C",
+      "E",
+      "N",
+      "T",
+      "I"
     ]
   ],
   "solutionPlacements": [
     {
-      "word": "VOLCANO",
+      "word": "UMBRELLA",
       "path": [
+        {
+          "row": 1,
+          "col": 1
+        },
+        {
+          "row": 1,
+          "col": 2
+        },
+        {
+          "row": 1,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 4
+        },
+        {
+          "row": 1,
+          "col": 5
+        },
+        {
+          "row": 1,
+          "col": 6
+        },
         {
           "row": 1,
           "col": 7
         },
         {
-          "row": 2,
-          "col": 7
-        },
+          "row": 1,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "word": "TRUMPET",
+      "path": [
         {
           "row": 3,
-          "col": 7
+          "col": 8
         },
         {
           "row": 4,
-          "col": 7
+          "col": 8
         },
         {
           "row": 5,
-          "col": 7
+          "col": 8
         },
         {
           "row": 6,
-          "col": 7
+          "col": 8
         },
         {
           "row": 7,
-          "col": 7
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
         }
       ]
     },
@@ -186,106 +223,48 @@
       ]
     },
     {
-      "word": "DESERT",
-      "path": [
-        {
-          "row": 4,
-          "col": 6
-        },
-        {
-          "row": 5,
-          "col": 6
-        },
-        {
-          "row": 6,
-          "col": 6
-        },
-        {
-          "row": 7,
-          "col": 6
-        },
-        {
-          "row": 8,
-          "col": 6
-        },
-        {
-          "row": 9,
-          "col": 6
-        }
-      ]
-    },
-    {
-      "word": "QUIVER",
-      "path": [
-        {
-          "row": 1,
-          "col": 9
-        },
-        {
-          "row": 2,
-          "col": 9
-        },
-        {
-          "row": 3,
-          "col": 9
-        },
-        {
-          "row": 4,
-          "col": 9
-        },
-        {
-          "row": 5,
-          "col": 9
-        },
-        {
-          "row": 6,
-          "col": 9
-        }
-      ]
-    },
-    {
-      "word": "MELODY",
+      "word": "GARDEN",
       "path": [
         {
           "row": 3,
-          "col": 3
+          "col": 7
         },
         {
           "row": 4,
-          "col": 3
+          "col": 7
         },
         {
           "row": 5,
-          "col": 3
+          "col": 7
         },
         {
           "row": 6,
-          "col": 3
+          "col": 7
         },
         {
           "row": 7,
-          "col": 3
+          "col": 7
         },
         {
           "row": 8,
-          "col": 3
+          "col": 7
         }
       ]
     },
     {
-      "word": "HARBOR",
+      "word": "KITTEN",
       "path": [
         {
           "row": 4,
-          "col": 5
+          "col": 2
         },
         {
           "row": 5,
-          "col": 5
+          "col": 3
         },
         {
           "row": 6,
-          "col": 5
+          "col": 4
         },
         {
           "row": 7,
@@ -293,73 +272,98 @@
         },
         {
           "row": 8,
-          "col": 5
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "word": "OCEAN",
+      "path": [
+        {
+          "row": 8,
+          "col": 0
+        },
+        {
+          "row": 8,
+          "col": 1
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "word": "DANCE",
+      "path": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
         },
         {
           "row": 9,
           "col": 5
-        }
-      ]
-    },
-    {
-      "word": "ZEBRA",
-      "path": [
-        {
-          "row": 5,
-          "col": 8
-        },
-        {
-          "row": 6,
-          "col": 8
-        },
-        {
-          "row": 7,
-          "col": 8
-        },
-        {
-          "row": 8,
-          "col": 8
         },
         {
           "row": 9,
-          "col": 8
+          "col": 6
         }
       ]
     },
     {
-      "word": "RIVER",
+      "word": "BEACH",
       "path": [
         {
-          "row": 4,
+          "row": 3,
+          "col": 2
+        },
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 3,
           "col": 4
         },
         {
-          "row": 5,
-          "col": 4
+          "row": 3,
+          "col": 5
         },
         {
-          "row": 6,
-          "col": 4
-        },
-        {
-          "row": 7,
-          "col": 4
-        },
-        {
-          "row": 8,
-          "col": 4
+          "row": 3,
+          "col": 6
         }
       ]
     }
   ],
   "words": [
-    "VOLCANO",
+    "UMBRELLA",
+    "TRUMPET",
     "PUZZLE",
-    "DESERT",
-    "QUIVER",
-    "MELODY",
-    "HARBOR",
-    "ZEBRA",
-    "RIVER"
+    "GARDEN",
+    "KITTEN",
+    "OCEAN",
+    "DANCE",
+    "BEACH"
   ]
 }
